@@ -36,3 +36,8 @@ import tailwindcss in  index.css
 ```
 npm i @reduxjs/toolkit react-redux react-router-dom react-chartjs-2 react-icons chart.js axios react-hot-toast daisyui@latest @tailwindcss/line-clamp
 ```
+7. install eslint import sort
+```
+npm i eslint-plugn-simple-import-sort
+```
+ t enable auto-import sort do changes in settig.jsn fiel in vs code
