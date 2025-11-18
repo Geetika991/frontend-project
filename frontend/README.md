@@ -29,4 +29,10 @@ npm run dev
 npm i tailindcss @tailwindcss/vite
 changes in vite.config file
 import tailwindcss in  index.css
+
 ````
+
+6. insall dependecnies required for project
+```
+npm i @reduxjs/toolkit react-redux react-router-dom react-chartjs-2 react-icons chart.js axios react-hot-toast daisyui@latest @tailwindcss/line-clamp
+```
