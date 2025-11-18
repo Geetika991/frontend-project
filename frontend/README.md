@@ -22,3 +22,11 @@ npm i
 npm run dev
 
 ```
+
+5. setup tailwindcss
+
+```
+npm i tailindcss @tailwindcss/vite
+changes in vite.config file
+import tailwindcss in  index.css
+````
